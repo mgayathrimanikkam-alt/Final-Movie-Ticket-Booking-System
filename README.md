@@ -12,4 +12,4 @@ Console Movie Ticket Booking System using Python ,File Handling and Database Con
 -  Tech Stack: Python ,OOP, File I/O, Database(SQLite3).
 # How to Run
 '''bash
-python main.py
+- python main.py
